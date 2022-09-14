@@ -1,0 +1,10 @@
+C:\Users\cheba\source\repos\Installer\Installer\bin\Release\Installer.exe.config
+C:\Users\cheba\source\repos\Installer\Installer\bin\Release\Installer.exe
+C:\Users\cheba\source\repos\Installer\Installer\bin\Release\Installer.pdb
+C:\Users\cheba\source\repos\Installer\Installer\obj\Release\Installer.csproj.AssemblyReference.cache
+C:\Users\cheba\source\repos\Installer\Installer\obj\Release\Installer.csproj.SuggestedBindingRedirects.cache
+C:\Users\cheba\source\repos\Installer\Installer\obj\Release\Installer.csproj.CoreCompileInputs.cache
+C:\Users\cheba\source\repos\Installer\Installer\obj\Release\Installer.exe
+C:\Users\cheba\source\repos\Installer\Installer\obj\Release\Installer.pdb
+C:\Users\cheba\source\repos\Installer\Installer\obj\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\cheba\source\repos\Installer\Installer\obj\Release\Installer.csproj.ResolveComReference.cache
